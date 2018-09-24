@@ -1,0 +1,10 @@
+name: NPCShop
+author: lowliver
+version: 1.0.0
+main: NPCShop\Main
+api: ["4.0.0", "4.0.1", "5.0.0", "5.0.1"]
+
+commands:
+ 상점:
+  description: 상점 명령어
+  usage: /상점
